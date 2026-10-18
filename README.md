@@ -11,8 +11,8 @@ Ram(Random Access Memory): Atleast 64 mb or more
 
 Developer Note:
 
-Please don't play around with the code, if you know what you are doing. It can cause Problem within the 3D engine.
-If you can't ride a Bmx in the game but only move a camera, well the is probably still in its early state.
+Please don't play around with the code, if you know what you are doing. It can cause Problems within the 3D engine.
+If you can't ride a Bmx in the game but only move a camera, well the game is probably still in its early state.
 
 Don't try to code the same game as me, it's hard to even get a 3D Engine and Projection.
 
