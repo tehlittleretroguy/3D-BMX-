@@ -7,7 +7,7 @@ Specifications:
 
 CPU: Pentium MMX or better, AMD k6-II+ or better
 Operating System: Windows XP (a OS that meets the minimum required OS of LÖVE)
-Ram(Random Access Memory): Atleast 64 or more
+Ram(Random Access Memory): Atleast 64 mb or more
 
 Developer Note:
 
